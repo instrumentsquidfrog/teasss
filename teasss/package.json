@@ -1,0 +1,24 @@
+{
+"name": "adf-id",
+"version": "1.0.0",
+"description": "Helo Tea",
+"main": "index.js",
+"scripts": {
+"test": "exit 0"
+},
+"repository": {
+
+"type": "git",
+"url": "git+https://github.com/emonridwa/ADF-ID.git"
+},
+"keywords": {
+"TEA",
+"Tutorial"
+},
+"author": "Emon",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/emonridwa/ADF-ID/issues"
+},
+"homepage": "https://github.com/emonridwa/ADF-ID#readme"
+},
